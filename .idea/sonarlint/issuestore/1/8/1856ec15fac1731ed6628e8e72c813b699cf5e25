@@ -1,0 +1,9 @@
+
+q
+java:S1104
+"VMake connection a static final constant or non-public and provide accessors if needed.(à¯ôüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒêÏï
+H
+java:S4925"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿ
+L
+java:S6437"6Revoke and change this password, as it is compromised.(şÃÏ§

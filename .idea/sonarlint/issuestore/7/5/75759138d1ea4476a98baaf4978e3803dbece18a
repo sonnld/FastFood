@@ -1,0 +1,11 @@
+
+e
+java:S1192"JDefine a constant instead of duplicating this literal "productID" 3 times.(â™‰¢ùÿÿÿÿ
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®âˆ­
+{
+java:S1149A"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(®âˆ­
+>
+java:S1659""#Declare "total" on a separate line.(–òØ¨üÿÿÿÿ
+m
+java:S3776>"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(þ³‚”ûÿÿÿÿ

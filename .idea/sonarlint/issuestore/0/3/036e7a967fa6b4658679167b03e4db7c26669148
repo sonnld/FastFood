@@ -1,0 +1,9 @@
+
+{
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰Ëµ
+€
+java:S1149*"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Çê¢úÿÿÿÿ
+{
+java:S1149+"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(‰Ëµ
+O
+java:S1854"9Remove this useless assignment to local variable "listO".(‰Ëµ

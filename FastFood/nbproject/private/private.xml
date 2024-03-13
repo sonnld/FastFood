@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/admin-index.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/dao/UsersDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/dao/MyDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/controller/admin/BillListServlet.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/controller/guest/LoginServlet.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/dao/ProductsDAO.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/bill-manager.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/cart.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/content.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/controller/customer/CheckoutServlet.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/login.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/checkout.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/DB/DBContext.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/menu.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/controller/admin/AddProductServlet.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/controller/admin/EditProductServlet.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/footer.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/customer-manager.jsp</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/src/java/controller/customer/CartServlet.java</file>
+            <file>file:/C:/Users/ASUS/Documents/FastFood/FastFood/web/panner.jsp</file>
+        </group>
+    </open-files>
+</project-private>
